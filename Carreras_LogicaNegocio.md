@@ -34,10 +34,10 @@
 
 ### Modelo Entidad - Relacion
 
-![Modelo Entidad - Relacion](./DiagramaMER.png)
+![Modelo Entidad - Relacion](./Carreras_DiagramaMER.png)
 
 ### Modelo Relacional de BD
-![Modelo Relacional de la BD](./CarrerasModeloRelacionalBD.png)
+![Modelo Relacional de la BD](./Carreras_ModeloRelacionalBD.png)
 
 ## Reglas de Negocio 
 
